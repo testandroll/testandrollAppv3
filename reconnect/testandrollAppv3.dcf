@@ -1,0 +1,13 @@
+name: testandrollAppv3
+title: testandrollAppv3
+username:
+account: testandroll
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6827595
+bundleId: 6227392
+url: https://testandroll.shinyapps.io/testandrollAppv3/
+when: 1661214141.07389
+lastSyncTime: 1661214141.07391
+asMultiple: FALSE
+asStatic: FALSE
